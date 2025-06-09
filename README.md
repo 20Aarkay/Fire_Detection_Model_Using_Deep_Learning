@@ -1,4 +1,3 @@
-# Fire_Detection_Model_Using_Deep_Learning
 # 🔥 Fire Detection Model Using Deep Learning
 
 A deep learning-based web application that detects **fire**, **smoke**, or **safe conditions** from both uploaded images and live webcam footage. Built using **TensorFlow/Keras**, **Flask**, and **OpenCV**, with a responsive UI powered by **Bootstrap**.
